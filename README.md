@@ -1,4 +1,4 @@
-# taskwarrior-tag_expire-hook
+# tw-expire_tag-hook
 
 This taskwarrior hook-script is intended to
 - get my feet wet, learning how hook-scripts work, starting with a basic one
